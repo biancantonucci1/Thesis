@@ -38,3 +38,6 @@ Download all the files from this folder and place them in the same directory fro
 If the files are placed in this location, the paths used in the notebooks should work automatically without modification.
 
 You can change the path and names of output files in the sampler code. If you are using the pre-ran h5 realisations, then make sure the path is adjusted to your computer.
+
+
+DES-Dovekie_HD.csv AND STAT+SYS.npz come from: https://github.com/des-science/DES-SN5YR/tree/main/4_DISTANCES_COVMAT
