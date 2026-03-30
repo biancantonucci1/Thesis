@@ -1,0 +1,12 @@
+numpy: 2.3.5
+cosmosis: 3.25
+scipy: 1.16.3
+matplotlib: 3.10.8
+pandas: 2.3.3
+astropy: 7.2.0
+sklearn: 1.7.2
+h5py: 3.15.1
+camb: 1.6.5
+corner: 2.2.3
+anesthetic: 2.11.0
+nautilus: 1.0.5
